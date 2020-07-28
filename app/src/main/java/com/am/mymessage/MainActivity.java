@@ -10,7 +10,7 @@ import android.telephony.SmsManager;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
-
+// i have made this change from web
 public class MainActivity extends AppCompatActivity {
     EditText edmob,edmsg;
     String stmob,stmsg;
