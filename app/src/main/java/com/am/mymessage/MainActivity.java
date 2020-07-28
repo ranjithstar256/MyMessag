@@ -11,6 +11,9 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 // i have made this change from web
+
+
+// this i am adding from Studio
 public class MainActivity extends AppCompatActivity {
     EditText edmob,edmsg;
     String stmob,stmsg;
